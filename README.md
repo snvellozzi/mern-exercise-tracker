@@ -1,1 +1,1 @@
-# mern-exercise-tracker
+# Exercise Tracker Using the MERN Stack
